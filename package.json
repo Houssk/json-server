@@ -28,7 +28,7 @@
     "lodash-id": "^0.14.0",
     "lowdb": "^1.0.0",
     "method-override": "^3.0.0",
-    "morgan": "^1.9.1",
+    "morgan": "^1.10.0",
     "nanoid": "^2.1.11",
     "please-upgrade-node": "^3.2.0",
     "pluralize": "^8.0.0",
